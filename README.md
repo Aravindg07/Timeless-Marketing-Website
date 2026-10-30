@@ -12,4 +12,4 @@ Open `index.html` and edit the `CONFIG` block near the top of the `<script>`:
 Double-click `index.html`, or run `python3 -m http.server` and open http://localhost:8000
 
 ## Deploy
-Hosted with GitHub Pages (Settings > Pages > Deploy from branch > main / root).
+Hosted with GitHub Pages 
